@@ -42,4 +42,10 @@
 - AWSクラウドプラクティショナー
 
 ### 経験のある技術
-
+- salesforce apex/visualforce/lwc
+- salesforce 基本的な設定（基本的な設定、ワークフロー、プロセス、フロー）
+- golang(gin, aws s3との連携)
+- AWSのEC2,ECSをつかった基本的なインフラの構築
+- javascript(vue, react)
+- github/gitによるバージョン管理
+- dockerによる環境の構築
