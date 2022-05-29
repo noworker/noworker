@@ -43,7 +43,7 @@
 
 ### 経験のある技術
 - salesforce apex/visualforce/lwc
-- salesforce 基本的な設定（基本的な設定、ワークフロー、プロセス、フロー）
+- salesforce 基本的な設定（ワークフロー、プロセス、フロー等）
 - golang(gin, aws s3との連携)
 - AWSのEC2,ECSをつかった基本的なインフラの構築
 - javascript(vue, react)
