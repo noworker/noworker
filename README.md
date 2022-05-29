@@ -42,10 +42,11 @@
 - AWSクラウドプラクティショナー(2022/6)
 
 ### 経験のある技術
-- salesforce apex/visualforce/lwc
-- salesforce 基本的な設定（ワークフロー、プロセス、フロー等）
-- golang(gin, aws s3との連携)
-- AWSのEC2,ECSをつかった基本的なインフラの構築
-- javascript(vue, react)
-- github/gitによるバージョン管理
-- dockerによる環境の構築
+- java : 実務で１年間
+- salesforce apex/visualforce/lwc : 趣味で半年
+- salesforce 基本的な設定（ワークフロー、プロセス、フロー等）: 実務で半年
+- golang(gin, aws s3との連携) : 趣味で１年間
+- AWSのEC2,ECSをつかった基本的なインフラの構築 : 趣味で一年間
+- javascript(vue, react) : 実務で１年間　趣味で1年間
+- github/gitによるバージョン管理 : 趣味で２年間
+- dockerによる環境の構築 : 趣味で２年間
