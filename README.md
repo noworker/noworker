@@ -55,8 +55,8 @@ saleforceエンジニアとしてシステム導入のお手伝いをしてい�
 #### 経験のある技術
 - 単体テスト、結合テスト、詳細設計
 - java : 実務で１年間
-- salesforce apex/visualforce/lwc : 趣味で半年
-- salesforce 基本的な設定（ワークフロー、プロセス、フロー等）: 実務で半年
+- salesforce apex/visualforce/lwc : 実務で一年
+- salesforce 基本的な設定（ワークフロー、プロセス、フロー等）: 実務で一年
 - golang(gin, aws s3との連携) : 趣味で１年間
 - AWSのEC2,ECSをつかった基本的なインフラの構築 : 趣味で1年間
 - javascript(vue, react) : 実務で１年間　趣味で1年間
