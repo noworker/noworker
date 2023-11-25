@@ -12,7 +12,7 @@
 |[経験のある技術](#経験のある技術)|これまでに使用経験がある技術を一覧で紹介します|
 
 #### 自己紹介
-大阪出身の２４歳です。
+大阪出身の２5歳です。
 趣味は筋トレ、新しい技術の勉強、シーシャ屋通い、株式投資です。
 大学を卒業後にSIerでアプリケーションエンジニアとして就職、退職後にSalesforce導入支援会社に就職
 得意な技術分野はsalesforce,webアプリ領域です。
@@ -59,10 +59,11 @@
 #### 経験のある技術
 - 単体テスト、結合テスト、詳細設計
 - java : 実務で１年間
-- salesforce apex/visualforce/lwc : 実務で一年半
-- salesforce 標準機能の設定（ワークフロー、プロセス、フロー等）: 実務で一年半
-- golang(gin) : 趣味で１年間
+- salesforce apex/visualforce/lwc : 実務で2年
+- salesforce 標準機能の設定（ワークフロー、プロセス、フロー等）: 実務で２年
+- golang(gin, echo) : 趣味で1年間
 - AWSのEC2,ECSをつかった基本的なインフラの構築 : 趣味で1年間
-- javascript(react, next, typescript) : 実務で１年間　趣味で1年間
-- github/gitによるバージョン管理 : 趣味で２年間
+- javascript(react,react native, next, typescript) : 実務で3年間
+- php(laravel) 実務で１年
+- github/gitによるバージョン管理 : 実務で２年間
 - dockerによる環境の構築 : 趣味で1年間
