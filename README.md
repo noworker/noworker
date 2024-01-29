@@ -56,7 +56,7 @@
 - 普通自動車免許(MT)/普通二輪免許
 
 取得予定
-- TOEIC L&R 再受験(2023年内受験予定)
+- TOEIC L&R 再受験(2024年内受験予定)
 
 #### 経験のある技術
 - 単体テスト、結合テスト、詳細設計
@@ -65,7 +65,8 @@
 - salesforce 標準機能の設定（ワークフロー、プロセス、フロー等）: 実務で２年
 - golang(gin, echo) : 趣味で1年間
 - AWSのEC2,ECSをつかった基本的なインフラの構築 : 趣味で1年間
-- javascript(react,react native, next, typescript) : 実務で3年間
+- javascript(react,reactNative, next, vue, typescript) : 実務で3年間
 - php(laravel) 実務で１年
-- github/gitによるバージョン管理 : 実務で２年間
+- github/git/github actionsによるバージョン管理 : 実務で２年間
 - dockerによる環境の構築 : 趣味で1年間
+- flutter: 趣味で半年
