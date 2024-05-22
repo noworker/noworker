@@ -64,9 +64,9 @@
 - salesforce apex/visualforce/lwc : 実務で2年
 - salesforce 標準機能の設定（ワークフロー、プロセス、フロー等）: 実務で２年
 - golang(gin, echo) : 趣味で1年間
-- AWSのEC2,ECSをつかった基本的なインフラの構築 : 趣味で1年間
+- AWSのEC2,ECSをつかった基本的なインフラの構築 : 実務で1年間
 - javascript(react,reactNative, next, vue, typescript) : 実務で3年間
 - php(laravel) 実務で１年
 - github/git/github actionsによるバージョン管理 : 実務で２年間
-- dockerによる環境の構築 : 趣味で1年間
-- flutter: 趣味で半年
+- dockerによる環境の構築 : 実務で1年間
+- flutter: 実務で半年
