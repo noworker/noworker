@@ -5,77 +5,77 @@
 
 
 /** English Ver. **/
-### Table of Contents
-| Index | Overview |
-|:---:|:---:|
-| [Self-Introduction](#self-introduction) | A brief self-introduction including hobbies and hometown. |
-| [Future Goals](#future-goals) | Introduction of goals and aspirations I want to achieve. |
-| [Development Experience](#development-experience) | Introduction of software developed individually. |
-| [Career History](#career-history) | A brief overview of my career history. |
-| [Qualifications](#qualifications) | Qualifications I have acquired so far. |
-| [Technical Skills](#technical-skills) | A list of technical skills I have experience with. |
+#### About Me
+27-year-old from Osaka, Japan.
+My hobbies include weightlifting, learning new technologies, visiting shisha lounges, and stock investing.
+After graduating from university, I worked as an application engineer at a system integrator, then joined a Salesforce consulting firm.
+My expertise lies in Salesforce and web application development.
+I'm committed to continuous learning in IT to constantly improve my skills.
 
-#### Self-Introduction
-I am a 26-year-old from Osaka, Japan.
-My hobbies include weight training, learning new technologies, visiting shisha cafes, and investing in stocks.
-After graduating from university, I worked as an application engineer at an SIer, and then I joined a Salesforce implementation support company.
-My main areas of expertise are Salesforce and web applications.
-I am constantly learning about IT to continuously improve my skills.
+#### Career Goals
+To support businesses as an application engineer through system implementation and consulting.
 
-#### Future Goals
-To assist in system implementation as an application engineer.
+#### Personal Projects
+Team Development Projects:
 
-#### Development Experience　as a hobby
 [Ramen Portal](http://ramen-portal.com "Ramen Portal")
-<img width="1171" alt="スクリーンショット 2024-09-24 11 53 37" src="https://github.com/user-attachments/assets/2f9594ef-63fe-4d4d-9a15-f85a57d84fa9">
+<img width="1171" alt="スクリーンショット 2024-09-24 11 53 37" src="https://github.com/user-attachments/assets/9963f4ad-e46f-413f-aa8c-a016d07e1b1d">
+https://ramen-portal.com/
 
-#### Career History
-| Period | Career |
-|:---:|:---:|
-| 2017/4 ~ | Enrolled in Kansai University, Faculty of Law |
-| 2017/12 ~ 2021/2 | Worked as a teacher at a robot programming school (part-time) |
-| 2019/12 ~ 2020/2 | Interned at a web application development company, gaining basic web knowledge |
-| ~ 2021/3 | Graduated from Kansai University, Faculty of Law |
-| 2021/4 ~ 2022/9 | Worked at an SI company in Osaka (engaged in call center systems and Salesforce projects) |
-| 2022/10 ~ 2024/11 | Joined a Salesforce implementation support company |
-| 2024/12 ~ | Joined a product development company |
+[if100](https://www.if100.net/promotion "もし100")
+<img width="1299" height="632" alt="スクリーンショット 2026-01-04 11 43 07" src="https://github.com/user-attachments/assets/712d833a-29fa-440c-aa77-a3fba50f9e6c" />
+
+#### Work Experience
+|Period|Experience|
+|:---:|:---|
+|Apr 2017 ~|Enrolled in Kansai University, Faculty of Law|
+|Dec 2017 ~ Feb 2021|Robot Programming Instructor (Part-time)|
+|Dec 2019 ~ Feb 2020|Internship at a web development company, acquired fundamental web development knowledge|
+|~ Mar 2021|Graduated from Kansai University, Faculty of Law|
+|Apr 2021 ~ Sep 2022|Joined a system integrator in Osaka (worked on call center systems and Salesforce projects)|
+|Oct 2022 ~ Nov 2024|Joined a Salesforce implementation and consulting firm|
+|Dec 2024 ~|Joined a self-product development company|
 
 ---
 
-#### Qualifications
+#### Certifications
 - Salesforce Certified Administrator
 - Salesforce Certified Advanced Administrator
 - Salesforce Certified Application Builder
-- Salesforce Certified Developer
+- Salesforce Certified Platform Developer I
 - Salesforce Certified Service Cloud Consultant
 - Salesforce Certified Sales Cloud Consultant
 - Salesforce Certified Experience Cloud Consultant
 - Salesforce Certified Data Architect
 - Salesforce Certified Sharing and Visibility Architect
 - Salesforce Certified Application Architect
-- AWS CLF
-- AWS SAA
-- Bookkeeping Level 3
-- Financial Planner Level 3
-- TOEIC L&R 895
-- Regular Driver's License (MT) / Motorcycle License
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect - Associate
+- Bookkeeping Level 3 (Japan)
+- Certified Financial Planner Level 3 (Japan)
+- TOEIC L&R: 895
+- Japanese Driver's License (Manual Transmission / Motorcycle)
 
-Planned:
-- TOEIC L&R re-exam (Scheduled for 2024)
-
-#### Technical Skills
-- Unit testing, integration testing, detailed design
-- Java: 1 year of professional experience
-- Salesforce Apex/Visualforce/LWC: 2 years of professional experience
-- Salesforce standard feature configuration (workflow, process, flows, etc.): 2 years of professional experience
-- Golang (gin, echo): 1 year as a hobby
-- Basic infrastructure setup with AWS EC2, ECS: 2 years of professional experience
-- Javascript (React, ReactNative, Next.js, Vue, Typescript): 3 years of professional experience
-- PHP (Laravel): 2 years of professional experience
-- Version control using Git/GitHub/GitHub Actions: 4 years of professional experience
-- Docker environment setup: 2 years of professional experience
-- Flutter: 1 year of professional experience
-
+#### Technical Skills & Experience
+| Category | Technology / Skill | Framework / Details | Years of Experience | Notes |
+|---|---|---|---|---|
+| Development Process | Unit Testing | - | - | Professional experience |
+| Development Process | Integration Testing | - | - | Professional experience |
+| Development Process | Detailed Design | - | - | Professional experience |
+| Language | Java | - | 1 year | Professional |
+| Salesforce | Apex | - | 2 years | Professional |
+| Salesforce | Visualforce | - | 2 years | Professional |
+| Salesforce | LWC | Lightning Web Components | 2 years | Professional |
+| Salesforce | Standard Configuration | Workflow / Process Builder / Flow | 2 years | Professional |
+| Language | Go | gin / echo | 1 year | Personal projects |
+| Infrastructure | AWS | EC2 / ECS | 2 years | Professional - Basic infrastructure setup |
+| Language | JavaScript / TypeScript | React / React Native / Next.js / Vue.js | 5 years | Professional |
+| Language | PHP | Laravel | 4 years | Professional |
+| Version Control | Git / GitHub | GitHub Actions | 5 years | Professional |
+| Container | Docker | - | 4 years | Professional |
+| Mobile | Flutter | - | 3 years | Professional |
+| Mobile | Swift | iOS | 1 year | Professional |
+| Mobile | Kotlin | Android | 1 year | Professional |
 
 /** Japanese Ver. **/
 ### 目次
@@ -89,7 +89,7 @@ Planned:
 |[経験のある技術](#経験のある技術)|これまでに使用経験がある技術を一覧で紹介します|
 
 #### 自己紹介
-大阪出身の26歳です。
+大阪出身の27歳です。
 趣味は筋トレ、新しい技術の勉強、シーシャ屋通い、株式投資です。
 大学を卒業後にSIerでアプリケーションエンジニアとして就職、退職後にSalesforce導入支援会社に就職
 得意な技術分野はsalesforce,webアプリ領域です。
@@ -103,6 +103,10 @@ Planned:
 [Ramen Portal](http://ramen-portal.com "Ramen Portal")
 <img width="1171" alt="スクリーンショット 2024-09-24 11 53 37" src="https://github.com/user-attachments/assets/9963f4ad-e46f-413f-aa8c-a016d07e1b1d">
 https://ramen-portal.com/
+
+[もし100](https://www.if100.net/promotion "もし100")
+<img width="1299" height="632" alt="スクリーンショット 2026-01-04 11 43 07" src="https://github.com/user-attachments/assets/712d833a-29fa-440c-aa77-a3fba50f9e6c" />
+
 
 #### 経歴
 |期間|経歴|
@@ -135,18 +139,23 @@ https://ramen-portal.com/
 - TOEIC L&R 895
 - 普通自動車免許(MT)/普通二輪免許
 
-取得予定
-- TOEIC L&R 再受験(2024年内受験予定)
-
 #### 経験のある技術
-- 単体テスト、結合テスト、詳細設計
-- java : 実務で１年間
-- salesforce apex/visualforce/lwc : 実務で2年
-- salesforce 標準機能の設定（ワークフロー、プロセス、フロー等）: 実務で２年
-- golang(gin, echo) : 趣味で1年間
-- AWSのEC2,ECSをつかった基本的なインフラの構築 : 実務で2年間
-- javascript(react,reactNative, next, vue, typescript) : 実務で3年間
-- php(laravel) 実務で2年
-- github/git/github actionsによるバージョン管理 : 実務で4年間
-- dockerによる環境の構築 : 実務で2年間
-- flutter: 実務で1年間
+| 分類 | 技術・スキル | フレームワーク / 詳細 | 経験年数 | 備考 |
+|---|---|---|---|---|
+| 開発工程 | 単体テスト | - | - | 実務経験あり |
+| 開発工程 | 結合テスト | - | - | 実務経験あり |
+| 開発工程 | 詳細設計 | - | - | 実務経験あり |
+| 言語 | Java | - | 1年 | 実務 |
+| Salesforce | Apex | - | 2年 | 実務 |
+| Salesforce | Visualforce | - | 2年 | 実務 |
+| Salesforce | LWC | Lightning Web Components | 2年 | 実務 |
+| Salesforce | 標準機能設定 | ワークフロー / プロセス / フロー | 2年 | 実務 |
+| 言語 | Go | gin / echo | 1年 | 趣味 |
+| インフラ | AWS | EC2 / ECS | 2年 | 実務・基本的なインフラ構築 |
+| 言語 | JavaScript / TypeScript | React / React Native / Next.js / Vue.js | 5年 | 実務 |
+| 言語 | PHP | Laravel | 4年 | 実務 |
+| バージョン管理 | Git / GitHub | GitHub Actions | 5年 | 実務 |
+| コンテナ | Docker | - | 4年 | 実務 |
+| モバイル | Flutter | - | 3年 | 実務 |
+| モバイル | Swift | iOS | 1年 | 実務 |
+| モバイル | Kotlin | Android | 1年 | 実務 |
