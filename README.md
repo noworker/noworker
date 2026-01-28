@@ -39,6 +39,8 @@ https://ramen-portal.com/
 ---
 
 #### Certifications
+- Passed the 2025 Administrative Scrivener Examination
+- TOEIC L&R: 895
 - Salesforce Certified Administrator
 - Salesforce Certified Advanced Administrator
 - Salesforce Certified Application Builder
@@ -53,7 +55,6 @@ https://ramen-portal.com/
 - AWS Certified Solutions Architect - Associate
 - Bookkeeping Level 3 (Japan)
 - Certified Financial Planner Level 3 (Japan)
-- TOEIC L&R: 895
 - Japanese Driver's License (Manual Transmission / Motorcycle)
 
 #### Technical Skills & Experience
@@ -122,6 +123,8 @@ https://ramen-portal.com/
 
 ---
 #### 保有資格
+- 令和７年度 行政書士試験合格
+- TOEIC L&R 895
 - salesforce認定アドミニストレーター
 - salesforce認定上級アドミニストレーター
 - salesforce認定アプリケーションビルダー
@@ -136,7 +139,6 @@ https://ramen-portal.com/
 - AWS SAA
 - 簿記３級
 - ファイナンシャルプランナー技能士３級
-- TOEIC L&R 895
 - 普通自動車免許(MT)/普通二輪免許
 
 #### 経験のある技術
