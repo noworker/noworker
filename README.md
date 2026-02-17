@@ -39,7 +39,7 @@ https://ramen-portal.com/
 ---
 
 #### Certifications
-- Passed the 2025 Administrative Scrivener Examination
+- Passed the 2025 Certified Administrative Procedures Legal Specialist
 - TOEIC L&R: 895
 - Salesforce Certified Administrator
 - Salesforce Certified Advanced Administrator
