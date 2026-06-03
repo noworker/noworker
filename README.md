@@ -6,7 +6,7 @@
 
 /** English Ver. **/
 #### About Me
-27-year-old from Osaka, Japan.
+28-year-old from Osaka, Japan.
 My hobbies include weightlifting, learning new technologies, visiting shisha lounges, and stock investing.
 After graduating from university, I worked as an application engineer at a system integrator, then joined a Salesforce consulting firm.
 My expertise lies in Salesforce and web application development.
@@ -39,7 +39,7 @@ https://ramen-portal.com/
 ---
 
 #### Certifications
-- Passed the 2025 Certified Administrative Procedures Legal Specialist
+- Certified Administrative Scrivener, Member of Osaka Prefecture Administrative Scriveners Association
 - TOEIC L&R: 895
 - Salesforce Certified Administrator
 - Salesforce Certified Advanced Administrator
@@ -90,7 +90,7 @@ https://ramen-portal.com/
 |[経験のある技術](#経験のある技術)|これまでに使用経験がある技術を一覧で紹介します|
 
 #### 自己紹介
-大阪出身の27歳です。
+大阪出身の28歳です。
 趣味は筋トレ、新しい技術の勉強、シーシャ屋通い、株式投資です。
 大学を卒業後にSIerでアプリケーションエンジニアとして就職、退職後にSalesforce導入支援会社に就職
 得意な技術分野はsalesforce,webアプリ領域です。
@@ -123,7 +123,7 @@ https://ramen-portal.com/
 
 ---
 #### 保有資格
-- 令和７年度 行政書士試験合格
+- 大阪府行政書士会所属行政書士
 - TOEIC L&R 895
 - salesforce認定アドミニストレーター
 - salesforce認定上級アドミニストレーター
